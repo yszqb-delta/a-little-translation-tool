@@ -1,4 +1,4 @@
-# a-little-translation-tools
+# a-little-translation-tool
 一个基于DrissionPage的翻译工具
 A DrissionPage-based translation tool
 
